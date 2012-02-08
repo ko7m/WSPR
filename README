@@ -1,0 +1,5 @@
+This is the initial WSPR encoder for the Parallax Propeller processor.
+These files are Unicode text files.
+
+ko7mWSPR.spin - Simple WSPR beacon demo code
+ko7mWSPREncode.spin - WSPR message encoder
